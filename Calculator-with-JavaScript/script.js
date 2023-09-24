@@ -8,5 +8,6 @@ function equal(){
 }
 
 function clr(){
+    console.log("clr");
     document.getElementById('result').value = '';
 }
